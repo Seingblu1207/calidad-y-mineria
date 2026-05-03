@@ -1,0 +1,932 @@
+Flight phase,Flight type,Crash site,Crew on board,Pax on board,Total fatalities,Crash cause,Fatalities approx
+Flight,Scheduled Revenue Flight,Mountains,1.0,2.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,18.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.0,91.0,0-10,Technical failure,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),7.0,9.0,0-10,Technical failure,5
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,2.0,8.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),1.0,1.0,0-10,Human factor,5
+Landing (descent or approach),Positioning,Airport (less than 10 km from airport),1.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,102.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,13.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,13.0,0-10,Unknown,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,7.0,0-10,Human factor,5
+Takeoff (climb),Skydiving / Paratroopers,Airport (less than 10 km from airport),1.0,9.0,0-10,Human factor,5
+Takeoff (climb),Survey / Patrol / Reconnaissance,Airport (less than 10 km from airport),2.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),0.0,0.0,0-10,Weather,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),1.0,9.0,0-10,Human factor,5
+Landing (descent or approach),Positioning,Airport (less than 10 km from airport),2.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),2.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),1.0,2.0,0-10,Human factor,5
+Landing (descent or approach),Training,Airport (less than 10 km from airport),3.0,11.0,0-10,Human factor,5
+Landing (descent or approach),Private,Airport (less than 10 km from airport),1.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),0.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.0,82.0,0-10,Human factor,5
+Landing (descent or approach),Training,Airport (less than 10 km from airport),2.0,2.0,0-10,Human factor,5
+Takeoff (climb),Private,Airport (less than 10 km from airport),1.0,3.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),2.0,2.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,10.0,0-10,Technical failure,5
+Flight,Cargo,Mountains,1.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Positioning,Airport (less than 10 km from airport),2.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),1.0,3.0,0-10,Technical failure,5
+Takeoff (climb),Private,Airport (less than 10 km from airport),1.0,2.0,0-10,Technical failure,5
+Landing (descent or approach),Executive/Corporate/Business,Airport (less than 10 km from airport),1.0,1.0,0-10,Human factor,5
+Landing (descent or approach),Executive/Corporate/Business,City,1.0,6.0,0-10,Unknown,5
+Landing (descent or approach),Executive/Corporate/Business,Airport (less than 10 km from airport),2.0,1.0,0-10,Human factor,5
+Landing (descent or approach),Private,Airport (less than 10 km from airport),1.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),2.0,6.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),2.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),2.0,1.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,38.0,0-10,Technical failure,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),2.0,2.0,0-10,Human factor,5
+Taxiing,Test,Airport (less than 10 km from airport),5.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,2.0,1.0,0-10,Unknown,5
+Landing (descent or approach),Training,Mountains,10.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),1.0,6.0,0-10,Human factor,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),2.0,22.0,0-10,Technical failure,5
+Landing (descent or approach),Positioning,Airport (less than 10 km from airport),1.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Private,Airport (less than 10 km from airport),0.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),2.0,2.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.0,36.0,0-10,Human factor,5
+Landing (descent or approach),Training,Airport (less than 10 km from airport),2.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),20.0,195.0,0-10,Technical failure,5
+Flight,Delivery,Mountains,3.0,0.0,0-10,Weather,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),1.0,0.0,0-10,Weather,5
+Takeoff (climb),Private,Airport (less than 10 km from airport),1.0,2.0,0-10,Other causes,5
+Landing (descent or approach),Military,Airport (less than 10 km from airport),3.0,9.0,0-10,Technical failure,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),3.0,4.0,0-10,Technical failure,5
+Landing (descent or approach),Private,Mountains,1.0,1.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,39.0,0-10,Human factor,5
+Landing (descent or approach),Government,Airport (less than 10 km from airport),2.0,11.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,56.0,0-10,Technical failure,5
+Takeoff (climb),Test,Airport (less than 10 km from airport),2.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,35.0,0-10,Human factor,5
+Takeoff (climb),Training,Airport (less than 10 km from airport),3.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Military,Airport (less than 10 km from airport),2.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,52.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.0,136.0,0-10,Weather,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,0.0,0-10,Unknown,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),2.0,0.0,0-10,Human factor,5
+Flight,Private,Mountains,1.0,1.0,0-10,Human factor,5
+Takeoff (climb),Government,Airport (less than 10 km from airport),2.0,3.0,0-10,Unknown,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),1.0,1.0,0-10,Human factor,5
+Takeoff (climb),Military,Airport (less than 10 km from airport),2.0,4.0,0-10,Unknown,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,48.0,0-10,Other causes,5
+Landing (descent or approach),Postal (mail),Airport (less than 10 km from airport),2.0,1.0,0-10,Human factor,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),6.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,124.0,0-10,Human factor,5
+Landing (descent or approach),Government,Airport (less than 10 km from airport),2.0,2.0,0-10,Weather,5
+Landing (descent or approach),Ambulance,Airport (less than 10 km from airport),2.0,1.0,0-10,Human factor,5
+Takeoff (climb),Skydiving / Paratroopers,Airport (less than 10 km from airport),2.0,13.0,0-10,Human factor,5
+Takeoff (climb),Positioning,Airport (less than 10 km from airport),1.0,1.0,0-10,Human factor,5
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),1.0,3.0,0-10,Human factor,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),7.0,2.0,0-10,Human factor,5
+Flight,Training,Airport (less than 10 km from airport),2.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Training,Airport (less than 10 km from airport),3.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.0,152.0,0-10,Human factor,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),1.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),2.0,8.0,0-10,Human factor,5
+Parking,Test,Airport (less than 10 km from airport),0.0,0.0,0-10,Human factor,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),2.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Executive/Corporate/Business,Airport (less than 10 km from airport),1.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Executive/Corporate/Business,Mountains,1.0,3.0,0-10,Human factor,5
+Landing (descent or approach),Executive/Corporate/Business,Airport (less than 10 km from airport),1.0,2.0,0-10,Technical failure,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,21.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,94.0,0-10,Human factor,5
+Taxiing,Cargo,Airport (less than 10 km from airport),3.0,0.0,0-10,Human factor,5
+Takeoff (climb),Executive/Corporate/Business,Airport (less than 10 km from airport),1.0,4.0,0-10,Human factor,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),5.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Private,Airport (less than 10 km from airport),1.0,3.0,0-10,Human factor,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),2.0,0.0,0-10,Unknown,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),0.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,13.0,0-10,Human factor,5
+Flight,Executive/Corporate/Business,Mountains,2.0,6.0,0-10,Human factor,5
+Landing (descent or approach),Ambulance,Airport (less than 10 km from airport),1.0,2.0,0-10,Human factor,5
+Flight,Training,Mountains,5.0,0.0,0-10,Unknown,5
+Flight,Fire fighting,Mountains,2.0,0.0,0-10,Human factor,5
+Flight,Ambulance,Mountains,1.0,1.0,0-10,Weather,5
+Takeoff (climb),Private,Airport (less than 10 km from airport),1.0,1.0,0-10,Human factor,5
+Takeoff (climb),Private,Airport (less than 10 km from airport),2.0,0.0,0-10,Unknown,5
+Flight,Charter/Taxi (Non Scheduled Revenue Flight),Mountains,1.0,3.0,0-10,Human factor,5
+Landing (descent or approach),Positioning,Mountains,2.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Positioning,Mountains,1.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),0.0,0.0,0-10,Unknown,5
+Flight,Charter/Taxi (Non Scheduled Revenue Flight),Mountains,1.0,2.0,0-10,Human factor,5
+Landing (descent or approach),Delivery,Airport (less than 10 km from airport),4.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Private,Airport (less than 10 km from airport),2.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),2.0,1.0,0-10,Technical failure,5
+Flight,Ferry,Airport (less than 10 km from airport),1.0,0.0,0-10,Technical failure,5
+Flight,Private,Mountains,1.0,0.0,0-10,Human factor,5
+Takeoff (climb),Military,City,2.0,3.0,0-10,Technical failure,5
+Landing (descent or approach),Humanitarian,Airport (less than 10 km from airport),2.0,0.0,0-10,Other causes,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),5.0,3.0,0-10,Human factor,5
+Taxiing,Government,Airport (less than 10 km from airport),0.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),1.0,2.0,0-10,Unknown,5
+Flight,Private,Mountains,1.0,4.0,0-10,Human factor,5
+Takeoff (climb),Skydiving / Paratroopers,Airport (less than 10 km from airport),1.0,9.0,0-10,Unknown,5
+Takeoff (climb),Executive/Corporate/Business,Airport (less than 10 km from airport),1.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),3.0,1.0,0-10,Technical failure,5
+Landing (descent or approach),Skydiving / Paratroopers,Airport (less than 10 km from airport),2.0,0.0,0-10,Technical failure,5
+Takeoff (climb),Scheduled Revenue Flight,Mountains,2.0,14.0,0-10,Unknown,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),16.0,187.0,0-10,Human factor,5
+Takeoff (climb),Skydiving / Paratroopers,Airport (less than 10 km from airport),1.0,6.0,0-10,Unknown,5
+Flight,Positioning,Mountains,1.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),9.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),4.0,0.0,0-10,Human factor,5
+Flight,Military,Mountains,2.0,5.0,0-10,Unknown,5
+Flight,Illegal (smuggling),Desert,0.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Private,Airport (less than 10 km from airport),1.0,1.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,11.0,0-10,Technical failure,5
+Landing (descent or approach),Positioning,Airport (less than 10 km from airport),3.0,0.0,0-10,Human factor,5
+Takeoff (climb),Positioning,Airport (less than 10 km from airport),1.0,0.0,0-10,Human factor,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),3.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,24.0,0-10,Technical failure,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,2.0,0-10,Technical failure,5
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),City,2.0,16.0,0-10,Unknown,5
+Taxiing,Training,Airport (less than 10 km from airport),2.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Private,Airport (less than 10 km from airport),2.0,0.0,0-10,Technical failure,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),3.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Government,Mountains,2.0,1.0,0-10,Human factor,5
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),City,2.0,5.0,0-10,Human factor,5
+Landing (descent or approach),Training,Airport (less than 10 km from airport),5.0,0.0,0-10,Human factor,5
+Takeoff (climb),Test,Airport (less than 10 km from airport),7.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Government,Airport (less than 10 km from airport),2.0,4.0,0-10,Unknown,5
+Takeoff (climb),Military,Airport (less than 10 km from airport),2.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),4.0,12.0,0-10,Human factor,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),15.0,260.0,0-10,Technical failure,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),3.0,2.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,15.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,85.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,2.0,15.0,0-10,Human factor,5
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),1.0,3.0,0-10,Technical failure,5
+Flight,Cargo,Airport (less than 10 km from airport),2.0,0.0,0-10,Technical failure,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),1.0,3.0,0-10,Human factor,5
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),1.0,4.0,0-10,Technical failure,5
+Landing (descent or approach),Executive/Corporate/Business,Mountains,1.0,1.0,0-10,Human factor,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.0,106.0,0-10,Technical failure,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,72.0,0-10,Technical failure,5
+Flight,Positioning,Mountains,2.0,0.0,0-10,Human factor,5
+Taxiing,Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,0.0,0-10,Human factor,5
+Takeoff (climb),Positioning,Airport (less than 10 km from airport),2.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Executive/Corporate/Business,Airport (less than 10 km from airport),2.0,2.0,0-10,Technical failure,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),6.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Training,Airport (less than 10 km from airport),5.0,0.0,0-10,Technical failure,5
+Flight,Training,City,2.0,0.0,0-10,Unknown,5
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),1.0,5.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,39.0,0-10,Technical failure,5
+Takeoff (climb),Private,Mountains,1.0,2.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,17.0,0-10,Human factor,5
+Flight,Fire fighting,Mountains,2.0,0.0,0-10,Unknown,5
+Takeoff (climb),Private,Airport (less than 10 km from airport),1.0,6.0,0-10,Unknown,5
+Landing (descent or approach),Ferry,Mountains,4.0,4.0,0-10,Human factor,5
+Landing (descent or approach),Private,Airport (less than 10 km from airport),1.0,2.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),15.0,300.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),2.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),1.0,4.0,0-10,Human factor,5
+Flight,Scheduled Revenue Flight,Mountains,1.0,3.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,42.0,0-10,Other causes,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,44.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,22.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,12.0,0-10,Technical failure,5
+Takeoff (climb),Training,Airport (less than 10 km from airport),2.0,2.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,6.0,0-10,Unknown,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),2.0,1.0,0-10,Human factor,5
+Landing (descent or approach),Training,Airport (less than 10 km from airport),1.0,0.0,0-10,Technical failure,5
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,27.0,0-10,Human factor,5
+Takeoff (climb),Executive/Corporate/Business,Mountains,2.0,7.0,0-10,Human factor,5
+Flight,Private,Mountains,2.0,5.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),2.0,7.0,0-10,Weather,5
+Takeoff (climb),Test,Airport (less than 10 km from airport),3.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.0,44.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),0.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Training,Airport (less than 10 km from airport),1.0,1.0,0-10,Human factor,5
+Takeoff (climb),Training,Airport (less than 10 km from airport),2.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,24.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,14.0,0-10,Human factor,5
+Takeoff (climb),Executive/Corporate/Business,Airport (less than 10 km from airport),1.0,3.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),2.0,0.0,0-10,Other causes,5
+Parking,Scheduled Revenue Flight,Airport (less than 10 km from airport),0.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,110.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,5.0,0-10,Human factor,5
+Flight,Test,Mountains,2.0,5.0,0-10,Unknown,5
+Landing (descent or approach),Training,Airport (less than 10 km from airport),2.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),1.0,5.0,0-10,Human factor,5
+Flight,Military,Mountains,5.0,5.0,0-10,Human factor,5
+Takeoff (climb),Ferry,Airport (less than 10 km from airport),1.0,1.0,0-10,Technical failure,5
+Flight,Ferry,Mountains,1.0,0.0,0-10,Human factor,5
+Flight,Demonstration,Airport (less than 10 km from airport),2.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Positioning,Airport (less than 10 km from airport),2.0,1.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),8.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),3.0,0.0,0-10,Technical failure,5
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),1.0,9.0,0-10,Technical failure,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),5.0,6.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),0.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),0.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,68.0,0-10,Human factor,5
+Takeoff (climb),Survey / Patrol / Reconnaissance,Airport (less than 10 km from airport),2.0,23.0,0-10,Other causes,5
+Landing (descent or approach),Military,Airport (less than 10 km from airport),1.0,0.0,0-10,Human factor,5
+Takeoff (climb),Private,Airport (less than 10 km from airport),1.0,0.0,0-10,Unknown,5
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),2.0,17.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),4.0,1.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),2.0,19.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,36.0,0-10,Human factor,5
+Takeoff (climb),Military,Airport (less than 10 km from airport),2.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,24.0,0-10,Human factor,5
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),9.0,3.0,0-10,Technical failure,5
+Taxiing,Test,Airport (less than 10 km from airport),1.0,1.0,0-10,Human factor,5
+Landing (descent or approach),Positioning,Airport (less than 10 km from airport),2.0,2.0,0-10,Human factor,5
+Takeoff (climb),Military,Airport (less than 10 km from airport),0.0,0.0,0-10,Unknown,5
+Takeoff (climb),Military,Mountains,8.0,1.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),7.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Mountains,1.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,14.0,0-10,Human factor,5
+Flight,Geographical / Geophysical / Scientific,Mountains,2.0,1.0,0-10,Weather,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,4.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,20.0,0-10,Human factor,5
+Takeoff (climb),Ferry,Airport (less than 10 km from airport),4.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Humanitarian,Airport (less than 10 km from airport),3.0,0.0,0-10,Technical failure,5
+Flight,Spraying (Agricultural),Airport (less than 10 km from airport),1.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.0,140.0,0-10,Human factor,5
+Landing (descent or approach),Military,Airport (less than 10 km from airport),0.0,0.0,0-10,Unknown,5
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),2.0,1.0,0-10,Human factor,5
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),2.0,6.0,0-10,Technical failure,5
+Takeoff (climb),Military,Airport (less than 10 km from airport),6.0,9.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),5.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Executive/Corporate/Business,Airport (less than 10 km from airport),1.0,4.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,92.0,0-10,Human factor,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,0.0,0-10,Technical failure,5
+Takeoff (climb),Ambulance,Airport (less than 10 km from airport),2.0,11.0,0-10,Human factor,5
+Landing (descent or approach),Test,Airport (less than 10 km from airport),3.0,0.0,0-10,Unknown,5
+Flight,Scheduled Revenue Flight,Mountains,3.0,3.0,0-10,Human factor,5
+Takeoff (climb),Executive/Corporate/Business,City,1.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Executive/Corporate/Business,Airport (less than 10 km from airport),1.0,1.0,0-10,Technical failure,5
+Taxiing,Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Test,Airport (less than 10 km from airport),2.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Private,Airport (less than 10 km from airport),1.0,2.0,0-10,Technical failure,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,2.0,5.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),1.0,6.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,15.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,58.0,0-10,Technical failure,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),1.0,2.0,0-10,Other causes,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),2.0,4.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),5.0,42.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,1.0,5.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),5.0,0.0,0-10,Human factor,5
+Takeoff (climb),Survey / Patrol / Reconnaissance,Airport (less than 10 km from airport),1.0,3.0,0-10,Technical failure,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,90.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),3.0,32.0,0-10,Technical failure,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,8.0,0-10,Technical failure,5
+Landing (descent or approach),Delivery,Airport (less than 10 km from airport),2.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),0.0,0.0,0-10,Technical failure,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,4.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,10.0,0-10,Weather,5
+Flight,Cargo,Mountains,1.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),8.0,143.0,0-10,Human factor,5
+Takeoff (climb),Spraying (Agricultural),Airport (less than 10 km from airport),2.0,0.0,0-10,Weather,5
+Landing (descent or approach),Military,Airport (less than 10 km from airport),5.0,0.0,0-10,Unknown,5
+Flight,Training,Mountains,7.0,0.0,0-10,Human factor,5
+Landing (descent or approach),Private,Airport (less than 10 km from airport),2.0,0.0,0-10,Other causes,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),3.0,7.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),4.0,6.0,0-10,Human factor,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,3.0,0-10,Other causes,5
+Takeoff (climb),Postal (mail),Airport (less than 10 km from airport),2.0,1.0,0-10,Human factor,5
+Takeoff (climb),Ferry,Airport (less than 10 km from airport),2.0,0.0,0-10,Human factor,5
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,13.0,0-10,Weather,5
+Landing (descent or approach),Calibration,Airport (less than 10 km from airport),3.0,5.0,0-10,Human factor,5
+Landing (descent or approach),Military,Airport (less than 10 km from airport),1.0,1.0,0-10,Human factor,5
+Takeoff (climb),Private,City,1.0,6.0,0-10,Technical failure,5
+Takeoff (climb),Ferry,Airport (less than 10 km from airport),2.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Military,Airport (less than 10 km from airport),12.0,83.0,0-10,Unknown,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.0,146.0,0-10,Human factor,5
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),7.0,11.0,0-10,Technical failure,5
+Landing (descent or approach),Postal (mail),Airport (less than 10 km from airport),2.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Executive/Corporate/Business,Airport (less than 10 km from airport),1.0,5.0,0-10,Human factor,5
+Flight,Ambulance,Mountains,1.0,3.0,0-10,Human factor,5
+Parking,Test,Airport (less than 10 km from airport),3.0,0.0,0-10,Technical failure,5
+Landing (descent or approach),Military,Airport (less than 10 km from airport),8.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Private,Airport (less than 10 km from airport),1.0,2.0,0-10,Unknown,5
+Flight,Scheduled Revenue Flight,Mountains,1.0,9.0,0-10,Human factor,5
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),2.0,1.0,0-10,Human factor,5
+Flight,Private,Desert,1.0,0.0,0-10,Human factor,5
+Takeoff (climb),Military,Airport (less than 10 km from airport),10.0,0.0,0-10,Unknown,5
+Takeoff (climb),Positioning,City,2.0,1.0,0-10,Human factor,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,37.0,0-10,Human factor,5
+Flight,Military,Desert,0.0,0.0,0-10,Unknown,5
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,17.0,0-10,Unknown,5
+Flight,Cargo,Mountains,2.0,0.0,0-10,Human factor,5
+Takeoff (climb),Ferry,Airport (less than 10 km from airport),1.0,0.0,0-10,Technical failure,5
+Flight,Scheduled Revenue Flight,Mountains,1.0,3.0,0-10,Unknown,5
+Takeoff (climb),Military,Airport (less than 10 km from airport),4.0,26.0,11-40,Weather,25
+Takeoff (climb),Skydiving / Paratroopers,Airport (less than 10 km from airport),2.0,20.0,11-40,Other causes,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,16.0,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,10.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,13.0,11-40,Human factor,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),4.0,10.0,11-40,Technical failure,25
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),4.0,11.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,39.0,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,41.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,139.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,4.0,12.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,5.0,26.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,5.0,28.0,11-40,Weather,25
+Takeoff (climb),Survey / Patrol / Reconnaissance,Airport (less than 10 km from airport),4.0,20.0,11-40,Other causes,25
+Flight,Scheduled Revenue Flight,Mountains,1.0,10.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,17.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,10.0,11-40,Human factor,25
+Landing (descent or approach),Military,Mountains,3.0,13.0,11-40,Human factor,25
+Landing (descent or approach),Humanitarian,Airport (less than 10 km from airport),6.0,30.0,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,16.0,11-40,Weather,25
+Takeoff (climb),Military,Mountains,3.0,22.0,11-40,Human factor,25
+Takeoff (climb),Ferry,Airport (less than 10 km from airport),16.0,0.0,11-40,Technical failure,25
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),4.0,20.0,11-40,Technical failure,25
+Takeoff (climb),Military,Airport (less than 10 km from airport),6.0,18.0,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,10.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,5.0,8.0,11-40,Human factor,25
+Flight,Government,Mountains,3.0,8.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,26.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,20.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,83.0,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,19.0,11-40,Technical failure,25
+Taxiing,Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,114.0,11-40,Technical failure,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,15.0,11-40,Human factor,25
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),2.0,10.0,11-40,Human factor,25
+Takeoff (climb),Demonstration,Airport (less than 10 km from airport),2.0,11.0,11-40,Technical failure,25
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,1.0,12.0,11-40,Human factor,25
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),7.0,6.0,11-40,Weather,25
+Takeoff (climb),Training,Airport (less than 10 km from airport),8.0,3.0,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,9.0,11-40,Technical failure,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),5.0,9.0,11-40,Technical failure,25
+Flight,Scheduled Revenue Flight,Mountains,7.0,28.0,11-40,Technical failure,25
+Flight,Charter/Taxi (Non Scheduled Revenue Flight),Mountains,2.0,12.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,33.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,7.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,18.0,11-40,Human factor,25
+Flight,Skydiving / Paratroopers,Mountains,4.0,10.0,11-40,Technical failure,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),17.0,0.0,11-40,Unknown,25
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),6.0,7.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,28.0,11-40,Human factor,25
+Takeoff (climb),Military,Airport (less than 10 km from airport),7.0,27.0,11-40,Unknown,25
+Flight,Scheduled Revenue Flight,Mountains,6.0,26.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,14.0,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Mountains,2.0,26.0,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,City,2.0,19.0,11-40,Technical failure,25
+Takeoff (climb),Military,Airport (less than 10 km from airport),8.0,9.0,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.0,65.0,11-40,Human factor,25
+Landing (descent or approach),Humanitarian,Airport (less than 10 km from airport),2.0,16.0,11-40,Human factor,25
+Flight,Military,Mountains,3.0,20.0,11-40,Human factor,25
+Flight,Charter/Taxi (Non Scheduled Revenue Flight),Mountains,5.0,21.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,59.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,5.0,10.0,11-40,Human factor,25
+Flight,Charter/Taxi (Non Scheduled Revenue Flight),Mountains,3.0,8.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,4.0,31.0,11-40,Human factor,25
+Landing (descent or approach),Training,City,5.0,0.0,11-40,Human factor,25
+Flight,Demonstration,Airport (less than 10 km from airport),7.0,0.0,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,14.0,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,28.0,11-40,Human factor,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),10.0,2.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,2.0,16.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,3.0,14.0,11-40,Human factor,25
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,12.0,10.0,11-40,Human factor,25
+Takeoff (climb),Government,City,3.0,4.0,11-40,Technical failure,25
+Flight,Scheduled Revenue Flight,Mountains,4.0,27.0,11-40,Human factor,25
+Landing (descent or approach),Executive/Corporate/Business,Airport (less than 10 km from airport),4.0,8.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,City,2.0,13.0,11-40,Weather,25
+Flight,Scheduled Revenue Flight,Mountains,3.0,15.0,11-40,Unknown,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,13.0,11-40,Technical failure,25
+Flight,Ferry,Mountains,14.0,3.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,18.0,11-40,Weather,25
+Takeoff (climb),Military,Airport (less than 10 km from airport),6.0,27.0,11-40,Other causes,25
+Takeoff (climb),Military,City,6.0,18.0,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,32.0,11-40,Human factor,25
+Takeoff (climb),Positioning,City,3.0,1.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,20.0,11-40,Other causes,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.0,24.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.0,55.0,11-40,Human factor,25
+Takeoff (climb),Cargo,Mountains,10.0,13.0,11-40,Other causes,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,2.0,15.0,11-40,Human factor,25
+Flight,Military,Mountains,4.0,10.0,11-40,Weather,25
+Flight,Humanitarian,Mountains,3.0,21.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,14.0,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,13.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.0,92.0,11-40,Human factor,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),3.0,11.0,11-40,Technical failure,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),2.0,17.0,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,12.0,11-40,Unknown,25
+Landing (descent or approach),Military,City,4.0,14.0,11-40,Human factor,25
+Takeoff (climb),Skydiving / Paratroopers,Airport (less than 10 km from airport),1.0,13.0,11-40,Technical failure,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,17.0,11-40,Human factor,25
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),18.0,296.0,11-40,Human factor,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),6.0,7.0,11-40,Weather,25
+Parking,Military,Airport (less than 10 km from airport),0.0,0.0,11-40,Human factor,25
+Landing (descent or approach),Military,City,3.0,7.0,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Mountains,3.0,20.0,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Mountains,2.0,13.0,11-40,Human factor,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),7.0,15.0,11-40,Human factor,25
+Landing (descent or approach),Government,Airport (less than 10 km from airport),4.0,10.0,11-40,Human factor,25
+Flight,Skydiving / Paratroopers,Airport (less than 10 km from airport),2.0,23.0,11-40,Other causes,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,22.0,11-40,Other causes,25
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,6.0,28.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,3.0,16.0,11-40,Human factor,25
+Takeoff (climb),Military,Airport (less than 10 km from airport),7.0,35.0,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,36.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,48.0,11-40,Technical failure,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),4.0,11.0,11-40,Human factor,25
+Takeoff (climb),Cargo,City,3.0,0.0,11-40,Technical failure,25
+Takeoff (climb),Military,Airport (less than 10 km from airport),6.0,11.0,11-40,Human factor,25
+Takeoff (climb),Cargo,City,8.0,16.0,11-40,Other causes,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.0,31.0,11-40,Human factor,25
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),3.0,15.0,11-40,Human factor,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),7.0,21.0,11-40,Unknown,25
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),4.0,20.0,11-40,Other causes,25
+Landing (descent or approach),Executive/Corporate/Business,Mountains,3.0,9.0,11-40,Human factor,25
+Landing (descent or approach),Military,Mountains,8.0,11.0,11-40,Human factor,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),8.0,12.0,11-40,Human factor,25
+Takeoff (climb),Cargo,Airport (less than 10 km from airport),3.0,18.0,11-40,Technical failure,25
+Takeoff (climb),Cargo,City,4.0,0.0,11-40,Technical failure,25
+Flight,Training,Airport (less than 10 km from airport),7.0,6.0,11-40,Technical failure,25
+Landing (descent or approach),Cargo,City,9.0,21.0,11-40,Technical failure,25
+Landing (descent or approach),Military,Mountains,6.0,24.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,39.0,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.0,25.0,11-40,Human factor,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),6.0,9.0,11-40,Human factor,25
+Takeoff (climb),Skydiving / Paratroopers,City,1.0,10.0,11-40,Technical failure,25
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,13.0,11-40,Human factor,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),8.0,0.0,11-40,Unknown,25
+Takeoff (climb),Military,Airport (less than 10 km from airport),2.0,10.0,11-40,Technical failure,25
+Takeoff (climb),Training,City,4.0,0.0,11-40,Technical failure,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),5.0,31.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,74.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,City,5.0,45.0,11-40,Technical failure,25
+Landing (descent or approach),Humanitarian,Airport (less than 10 km from airport),5.0,50.0,11-40,Technical failure,25
+Landing (descent or approach),Cargo,City,4.0,10.0,11-40,Technical failure,25
+Takeoff (climb),Scheduled Revenue Flight,Mountains,2.0,14.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,4.0,34.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),1.0,10.0,11-40,Unknown,25
+Takeoff (climb),Training,Airport (less than 10 km from airport),3.0,25.0,11-40,Technical failure,25
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),2.0,9.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,3.0,16.0,11-40,Human factor,25
+Flight,Charter/Taxi (Non Scheduled Revenue Flight),Mountains,2.0,18.0,11-40,Human factor,25
+Flight,Charter/Taxi (Non Scheduled Revenue Flight),Mountains,1.0,11.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,19.0,11-40,Human factor,25
+Landing (descent or approach),Cargo,Mountains,9.0,11.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,18.0,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,19.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.0,174.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,3.0,22.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,15.0,11-40,Technical failure,25
+Flight,Scheduled Revenue Flight,Mountains,3.0,11.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,15.0,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,16.0,11-40,Human factor,25
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),3.0,16.0,11-40,Technical failure,25
+Landing (descent or approach),Military,Mountains,8.0,9.0,11-40,Human factor,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),5.0,24.0,11-40,Unknown,25
+Takeoff (climb),Scheduled Revenue Flight,City,3.0,12.0,11-40,Technical failure,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),9.0,14.0,11-40,Human factor,25
+Flight,Charter/Taxi (Non Scheduled Revenue Flight),Mountains,2.0,20.0,11-40,Human factor,25
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,5.0,25.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,14.0,11-40,Human factor,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),7.0,6.0,11-40,Unknown,25
+Takeoff (climb),Skydiving / Paratroopers,Airport (less than 10 km from airport),1.0,11.0,11-40,Human factor,25
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),3.0,49.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,7.0,59.0,41-100,Technical failure,70
+Landing (descent or approach),Military,Mountains,8.0,80.0,41-100,Technical failure,70
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,76.0,41-100,Technical failure,70
+Flight,Scheduled Revenue Flight,Mountains,7.0,87.0,41-100,Human factor,70
+Takeoff (climb),Military,City,8.0,15.0,41-100,Technical failure,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),11.0,50.0,41-100,Technical failure,70
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,3.0,50.0,41-100,Human factor,70
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),City,5.0,48.0,41-100,Human factor,70
+Landing (descent or approach),Military,Mountains,11.0,73.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,110.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,5.0,41.0,41-100,Human factor,70
+Landing (descent or approach),Military,Airport (less than 10 km from airport),6.0,95.0,41-100,Human factor,70
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,112.0,41-100,Human factor,70
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),8.0,80.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.0,63.0,41-100,Human factor,70
+Flight,Military,Mountains,5.0,48.0,41-100,Weather,70
+Flight,Scheduled Revenue Flight,Mountains,8.0,90.0,41-100,Human factor,70
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,13.0,62.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,4.0,47.0,41-100,Human factor,70
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,108.0,41-100,Human factor,70
+Landing (descent or approach),Military,Airport (less than 10 km from airport),6.0,52.0,41-100,Unknown,70
+Landing (descent or approach),Military,Mountains,5.0,58.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,7.0,63.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.0,79.0,41-100,Human factor,70
+Flight,Military,Mountains,5.0,71.0,41-100,Human factor,70
+Takeoff (climb),Scheduled Revenue Flight,City,8.0,71.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.0,69.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.0,77.0,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,4.0,40.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,89.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,71.0,41-100,Technical failure,70
+Takeoff (climb),Scheduled Revenue Flight,Mountains,10.0,43.0,41-100,Human factor,70
+Flight,Military,Mountains,6.0,45.0,41-100,Technical failure,70
+Landing (descent or approach),Military,City,4.0,42.0,41-100,Technical failure,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,7.0,58.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,60.0,41-100,Human factor,70
+Landing (descent or approach),Military,Airport (less than 10 km from airport),6.0,41.0,41-100,Human factor,70
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),8.0,41.0,41-100,Human factor,70
+Takeoff (climb),Military,Airport (less than 10 km from airport),5.0,78.0,41-100,Technical failure,70
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),4.0,37.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,75.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.0,37.0,41-100,Human factor,70
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,6.0,38.0,41-100,Human factor,70
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,52.0,41-100,Technical failure,70
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),20.0,159.0,41-100,Human factor,70
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,10.0,35.0,41-100,Human factor,70
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),14.0,77.0,41-100,Human factor,70
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),13.0,327.0,41-100,Human factor,70
+Takeoff (climb),Military,City,12.0,122.0,101+,Technical failure,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,14.0,99.0,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,11.0,130.0,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),11.0,106.0,101+,Technical failure,120
+Takeoff (climb),Military,Airport (less than 10 km from airport),8.0,151.0,101+,Technical failure,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,12.0,107.0,101+,Human factor,120
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,10.0,131.0,101+,Human factor,120
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),8.0,108.0,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),14.0,132.0,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.0,116.0,101+,Human factor,120
+Flight,Scheduled Revenue Flight,Mountains,5.0,99.0,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),11.0,155.0,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.0,153.0,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,117.0,101+,Human factor,120
+Takeoff (climb),Humanitarian,Airport (less than 10 km from airport),5.0,139.0,101+,Other causes,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.0,124.0,101+,Human factor,120
+Flight,Scheduled Revenue Flight,Mountains,7.0,125.0,101+,Human factor,120
+Flight,Scheduled Revenue Flight,Mountains,8.0,155.0,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.0,147.0,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.700874,26.0,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,19.5723,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,13.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,5.216407,25.0,11-40,Human factor,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),4.0,10.630866,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,38.957953,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.715572,43.973478,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,102.952146,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,88.650733,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,4.0,11.630528,11-40,Technical failure,25
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),1.928894,10.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,5.241336,26.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,5.0,28.0,11-40,Human factor,25
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),3.70768,20.0,11-40,Other causes,25
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),3.0,20.0,11-40,Technical failure,25
+Flight,Scheduled Revenue Flight,Mountains,1.0,10.365306,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,17.131169,11-40,Human factor,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),5.719076,7.22205,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Mountains,3.0,12.445106,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.003477,30.239106,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.25096,30.65675,11-40,Human factor,25
+Flight,Military,Airport (less than 10 km from airport),4.0,10.0,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,16.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,2.285167,22.569082,11-40,Human factor,25
+Takeoff (climb),Charter/Taxi (Non Scheduled Revenue Flight),Airport (less than 10 km from airport),3.061969,20.0,11-40,Other causes,25
+Takeoff (climb),Military,Airport (less than 10 km from airport),4.957207,18.0,11-40,Technical failure,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.900679,19.0,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,19.074361,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.990746,8.979576,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.708154,34.444443,11-40,Human factor,25
+Flight,Government,Mountains,3.0,8.097435,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,19.611739,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,19.946907,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.888064,88.954,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,18.054008,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,121.84885,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),1.684685,11.0,11-40,Human factor,25
+Flight,Charter/Taxi (Non Scheduled Revenue Flight),Mountains,1.023599,12.0,11-40,Human factor,25
+Flight,Cargo,Airport (less than 10 km from airport),6.169593,6.0,11-40,Weather,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),7.030903,4.049957,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,9.726193,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.100375,9.0,11-40,Human factor,25
+Flight,Military,Mountains,6.805255,28.0,11-40,Unknown,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,12.47374,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,12.0,11-40,Human factor,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),5.0,7.833772,11-40,Human factor,25
+Flight,Cargo,Airport (less than 10 km from airport),6.0,7.0,11-40,Technical failure,25
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),5.06046,28.0,11-40,Human factor,25
+Flight,Military,Mountains,6.339005,27.285553,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,5.707018,25.114495,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,5.89388,26.0,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Mountains,2.850294,26.993933,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,19.0,11-40,Human factor,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),6.213523,9.0,11-40,Technical failure,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),6.0,9.568035,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.336807,73.250866,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,3.0,20.87529,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.483105,60.723749,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,4.693914,10.0,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,18.611949,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.46315,49.34157,11-40,Human factor,25
+Flight,Executive/Corporate/Business,Mountains,3.0,8.603125,11-40,Human factor,25
+Landing (descent or approach),Government,Airport (less than 10 km from airport),3.0,8.356723,11-40,Human factor,25
+Landing (descent or approach),Government,Airport (less than 10 km from airport),3.0,8.973858,11-40,Human factor,25
+Takeoff (climb),Military,City,7.408407,18.0,11-40,Technical failure,25
+Takeoff (climb),Cargo,City,4.006579,0.0,11-40,Technical failure,25
+Takeoff (climb),Training,Airport (less than 10 km from airport),6.809716,0.0,11-40,Technical failure,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,14.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,18.0,11-40,Human factor,25
+Flight,Cargo,Airport (less than 10 km from airport),8.065341,0.503545,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,3.0,14.746436,11-40,Human factor,25
+Landing (descent or approach),Cargo,Mountains,9.923253,9.060463,11-40,Human factor,25
+Flight,Government,City,3.0,5.588874,11-40,Human factor,25
+Flight,Government,City,3.0,6.574372,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,3.69313,26.363423,11-40,Human factor,25
+Flight,Cargo,Airport (less than 10 km from airport),3.03415,8.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,3.0,14.900924,11-40,Human factor,25
+Flight,Military,Airport (less than 10 km from airport),6.0,27.538994,11-40,Human factor,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),10.0,13.065714,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Mountains,3.565148,26.0,11-40,Human factor,25
+Takeoff (climb),Military,Airport (less than 10 km from airport),5.378395,17.012448,11-40,Technical failure,25
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),4.860321,31.4803,11-40,Human factor,25
+Takeoff (climb),Cargo,City,3.488236,0.668828,11-40,Technical failure,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,19.804886,11-40,Other causes,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.281734,24.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.052523,58.666853,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,10.562025,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.451878,64.967119,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.801465,65.026457,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,20.0,11-40,Other causes,25
+Landing (descent or approach),Cargo,Mountains,9.102922,13.622638,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,3.0,20.608648,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,12.252653,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.455002,14.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),3.309898,29.715499,11-40,Human factor,25
+Flight,Military,Airport (less than 10 km from airport),5.822739,17.196066,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.240714,86.499694,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.188697,77.874297,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.700989,11.0,11-40,Human factor,25
+Takeoff (climb),Military,Airport (less than 10 km from airport),4.148146,17.541763,11-40,Technical failure,25
+Flight,Executive/Corporate/Business,Mountains,3.0,8.908114,11-40,Human factor,25
+Flight,Executive/Corporate/Business,Mountains,3.0,8.06941,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,12.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.0,13.208704,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),1.649751,13.0,11-40,Technical failure,25
+Flight,Scheduled Revenue Flight,Mountains,2.0,16.816159,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.566806,249.904811,11-40,Human factor,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),6.720459,6.746935,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.480275,50.685877,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.069904,48.622678,11-40,Human factor,25
+Takeoff (climb),Cargo,City,2.183868,0.0,11-40,Technical failure,25
+Takeoff (climb),Cargo,City,2.684033,0.0,11-40,Technical failure,25
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),3.41758,7.905521,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,3.0,20.025279,11-40,Human factor,25
+Flight,Military,Airport (less than 10 km from airport),6.649117,14.509199,11-40,Human factor,25
+Flight,Military,Airport (less than 10 km from airport),8.469931,14.709236,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),2.182854,22.621263,11-40,Other causes,25
+Flight,Scheduled Revenue Flight,Mountains,5.401153,28.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),2.197279,21.597765,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,20.81028,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,6.0,27.838472,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,2.024853,16.0,11-40,Human factor,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),6.927273,34.311975,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.271923,52.168412,11-40,Technical failure,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),4.0,11.0,11-40,Technical failure,25
+Takeoff (climb),Cargo,City,3.537575,0.0,11-40,Technical failure,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),5.1429,11.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.827573,32.069861,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,14.494818,11-40,Technical failure,25
+Landing (descent or approach),Military,Mountains,8.877462,9.0,11-40,Technical failure,25
+Landing (descent or approach),Military,Mountains,8.595306,9.220343,11-40,Technical failure,25
+Flight,Charter/Taxi (Non Scheduled Revenue Flight),Mountains,3.0,8.665798,11-40,Human factor,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),8.0,10.765079,11-40,Human factor,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),8.0,11.014808,11-40,Human factor,25
+Flight,Cargo,Airport (less than 10 km from airport),5.69551,6.86996,11-40,Technical failure,25
+Landing (descent or approach),Military,Airport (less than 10 km from airport),7.678208,11.637018,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.924177,18.0,11-40,Human factor,25
+Flight,Cargo,Airport (less than 10 km from airport),5.328943,6.0,11-40,Weather,25
+Landing (descent or approach),Military,Mountains,5.851674,23.592247,11-40,Human factor,25
+Landing (descent or approach),Military,Mountains,5.088112,24.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.760246,38.506426,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,5.860081,25.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.595117,9.499229,11-40,Technical failure,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),1.0,10.0,11-40,Human factor,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),6.774843,0.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.105637,31.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.434439,64.272168,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,45.901997,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.016067,46.731968,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.205911,37.413208,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,45.155747,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.207979,29.717505,11-40,Technical failure,25
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),1.0,10.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,9.05186,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,2.663649,16.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,1.0,10.192881,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.0,19.0,11-40,Human factor,25
+Landing (descent or approach),Cargo,Mountains,8.306022,11.768664,11-40,Human factor,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.261404,18.0,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,18.870796,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.53009,98.668888,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,3.137179,11.281616,11-40,Technical failure,25
+Landing (descent or approach),Military,Mountains,8.528891,9.34733,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,3.415307,12.0,11-40,Human factor,25
+Landing (descent or approach),Cargo,Airport (less than 10 km from airport),8.741811,14.663956,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Mountains,2.459976,20.0,11-40,Human factor,25
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,5.231381,25.0,11-40,Human factor,25
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),2.0,14.0,11-40,Human factor,25
+Flight,Cargo,Airport (less than 10 km from airport),7.0,6.0,11-40,Weather,25
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),1.0,10.992378,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),3.690047,47.886783,11-40,Technical failure,25
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.605479,84.129592,41-100,Technical failure,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),4.10032,87.083117,41-100,Technical failure,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.961673,57.815242,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.771198,59.991882,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,5.0,47.206738,41-100,Technical failure,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.911312,80.878429,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.22715,97.933831,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.178779,107.667624,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.01532,80.017098,41-100,Technical failure,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.410491,80.453911,41-100,Technical failure,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.360055,77.327609,41-100,Technical failure,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.777916,76.225022,41-100,Technical failure,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),5.142056,82.566247,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),6.836896,85.725005,41-100,Human factor,70
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,6.691148,23.576086,41-100,Human factor,70
+Landing (descent or approach),Charter/Taxi (Non Scheduled Revenue Flight),Mountains,6.239285,30.554973,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.435886,50.110243,41-100,Technical failure,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.387015,48.57885,41-100,Technical failure,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,3.0,49.345684,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,4.518138,47.90025,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.772609,74.136037,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.438156,109.703808,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.357618,109.293322,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),5.029378,84.640907,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),6.0,94.562973,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.661345,110.803495,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.124977,95.195949,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.403313,79.032021,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.241038,80.567293,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,6.777712,63.0,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,5.0,48.0,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),4.336458,89.274774,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),6.288025,69.88951,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,9.65792,61.254698,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,10.478394,61.071106,41-100,Human factor,70
+Flight,Military,Mountains,4.896314,47.0,41-100,Technical failure,70
+Flight,Military,Mountains,3.237867,47.060138,41-100,Technical failure,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.860497,111.750697,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.487281,50.085297,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,5.055853,58.771693,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,5.966254,59.993047,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,6.682975,63.0,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,6.531052,64.312165,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.199494,79.07179,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.0,77.552498,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,70.285167,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.665618,71.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.647108,71.0,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),6.869206,70.876061,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),5.841276,70.042793,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.628059,76.142873,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.051575,57.198643,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.0,57.669785,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),4.118533,89.708154,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),4.919021,85.563861,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),6.047032,71.0,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),5.67587,69.332404,41-100,Human factor,70
+Landing (descent or approach),Military,Airport (less than 10 km from airport),4.0,42.707614,41-100,Human factor,70
+Landing (descent or approach),Military,Airport (less than 10 km from airport),5.966925,41.398969,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,6.552689,60.844421,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.598593,58.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.477741,58.63063,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,5.256382,58.241196,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.0,60.070796,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.45083,41.415203,41-100,Technical failure,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,5.180318,58.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.871794,58.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,79.908978,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.096581,77.711291,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,5.025665,47.173587,41-100,Technical failure,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,5.0,40.603566,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,5.467006,38.09663,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,12.0,64.690114,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.0,74.75816,41-100,Technical failure,70
+Flight,Scheduled Revenue Flight,Airport (less than 10 km from airport),5.745622,69.0,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,3.0,49.466092,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,4.806038,48.574853,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.961182,83.476227,41-100,Technical failure,70
+Landing (descent or approach),Military,Airport (less than 10 km from airport),5.0,49.800275,41-100,Human factor,70
+Landing (descent or approach),Military,Airport (less than 10 km from airport),5.0,48.427047,41-100,Human factor,70
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.546831,127.050643,41-100,Human factor,70
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),18.960251,111.72432,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,9.341607,36.821199,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.893762,36.108795,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.442293,76.191786,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),13.600183,75.086511,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.196305,80.693914,41-100,Human factor,70
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.440697,80.889349,41-100,Human factor,70
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),18.789053,262.452303,41-100,Human factor,70
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.828251,248.304837,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,6.025257,66.222875,41-100,Human factor,70
+Flight,Scheduled Revenue Flight,Mountains,6.768931,63.685036,41-100,Human factor,70
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.406611,116.842961,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.040644,118.686506,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.256165,117.241474,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.0,119.005025,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.0,120.58998,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.591358,123.633664,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.225346,122.822207,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.0,121.967947,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.568702,123.462545,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.078498,115.490853,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),11.536967,116.626163,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.699467,118.559635,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.728694,114.210254,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,13.161127,97.695047,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,7.264496,98.469689,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,12.609951,101.335271,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,13.897103,100.468322,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,10.847976,102.638336,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,10.468421,130.700022,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,9.767628,126.413388,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,11.046153,130.717989,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,12.646858,131.110937,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,7.887279,128.419822,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),11.613907,104.215634,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.651258,112.296324,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.589144,107.67263,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.687732,106.641569,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.73762,105.376066,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.0,154.232963,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.528479,154.948409,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.193158,152.89452,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.247342,152.233903,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.936387,102.746203,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.056241,104.774317,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.776976,104.123475,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.719998,106.019918,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.899686,104.746091,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.831626,107.876443,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),13.079524,101.865306,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),11.18612,112.838591,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),11.156325,106.563565,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,10.86245,130.098076,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,8.326432,129.432037,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,7.00245,130.628589,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,7.23596,128.826324,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),11.629125,107.753514,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),11.503961,107.14595,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.21467,110.523382,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.832904,109.854047,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,7.319189,127.708971,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.648588,125.845146,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,10.574616,128.769681,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,5.016703,125.907252,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.838897,129.641796,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,11.779824,131.122047,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,11.736061,131.684739,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,11.739939,131.950136,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,12.574496,130.897264,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,11.891856,131.582365,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),11.334147,117.705772,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.125573,119.283344,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.94498,116.322669,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),11.577219,116.023981,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.872814,116.444457,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.791391,100.494582,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.592906,99.0,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.93159,97.439349,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.671088,99.911553,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.050297,119.145696,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.0,119.749704,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.0,119.583485,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.0,120.351404,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.729654,121.87894,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.086159,148.730304,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.81223,146.335069,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.624972,147.519882,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),11.986053,146.689404,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),11.667624,148.387218,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.783893,147.710992,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.317157,151.102903,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.181429,155.0,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),13.655852,153.297499,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.940708,154.101705,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.005383,97.211872,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),5.682213,97.631835,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.37762,99.799452,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.278833,101.947233,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),12.984788,149.186514,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.0,147.247152,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.0,150.27555,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.895358,153.939907,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.040031,152.259403,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.818659,116.977543,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.570089,117.279159,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.74786,119.659042,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.461374,123.515134,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.744284,119.516007,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.682271,125.082022,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),7.598199,122.978833,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Airport (less than 10 km from airport),6.432967,121.403029,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,6.264007,126.76447,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,9.798248,125.706878,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,7.917013,126.113104,101+,Human factor,120
+Landing (descent or approach),Scheduled Revenue Flight,Mountains,10.518733,122.187584,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.088687,149.385513,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.891607,153.105617,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.747855,155.0,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.889614,148.536688,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.082084,150.836845,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),10.904011,154.22836,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),9.037824,147.262994,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),8.547764,149.921743,101+,Human factor,120
+Takeoff (climb),Scheduled Revenue Flight,Airport (less than 10 km from airport),13.195673,146.650219,101+,Human factor,120
