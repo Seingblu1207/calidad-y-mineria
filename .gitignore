@@ -180,3 +180,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 ~$ACTICA 4 CALIDAD Y  MINERÍA DE DATOS EN PYTHON.docx
+inspect_notebook.py
